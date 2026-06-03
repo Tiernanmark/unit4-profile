@@ -1,4 +1,3 @@
-h1{ background-color: #eb0909;
-padding: 1rem;font-size: 2rem;}
-body{ font-family: Arial, sans-serif;}
-p{font-size: 1rem; background-color: #e90b0b; padding: 0.5rem;}
+header{ background-color: #eb1b1b; padding: 2rem; font-size: 2rem;}
+body { font-family: Arial, sans-serif; }
+p { font-size: 1rem; background-color: #999393; padding: 0.5rem; }
